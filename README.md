@@ -1,3 +1,3 @@
 # apex-projects
 
-Repository made to letmy imagination fly and practice my apex skills
+Repository made to let my imagination fly and practice my apex skills
